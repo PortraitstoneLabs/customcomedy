@@ -49,7 +49,7 @@ export const socialMedia = [
   {
     id: "social-media-6",
     icon: github,
-    link: "https://github.com/PortraitstoneLabs/keenankissinger",
+    link: "https://github.com/PortraitstoneLabs/customcomedy",
   },
 
 ];
