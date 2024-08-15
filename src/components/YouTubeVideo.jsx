@@ -1,8 +1,7 @@
 import React from 'react';
-import YouTube from 'react-youtube';
 
 const YouTubeVideo = () => {
-  const videoId = 'yotq9hOzYwI';
+  const videoId = 'JBSJWq7fJww';
 
   return (
     <div style={{ display: 'flex', flexDirection: 'column', justifyContent: 'center', alignItems: 'center', height: '100%', maxWidth: '100%', overflow: 'hidden' }}>

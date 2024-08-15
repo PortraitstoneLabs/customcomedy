@@ -19,6 +19,22 @@ import merkafakalishma from "./merkafakalishma.png";
    import instagram from "./instagram.svg";
    //import linkedin from "./linkedin.svg";
    import tiktok from "./tiktok.svg";
+   import ENFJ from "./icon/ENFJ.png";
+   import ENFP from "./icon/ENFP.png";
+   import ENTJ from "./icon/ENTJ.png";
+   import ENTP from "./icon/ENTP.png";
+   import ESFJ from "./icon/ESFJ.png";
+   import ESFP from "./icon/ESFP.png";
+   import ESTJ from "./icon/ESTJ.png";
+   import ESTP from "./icon/ESTP.png";
+   import INFJ from "./icon/INFJ.png";
+   import INFP from "./icon/INFP.png";
+   import INTJ from "./icon/INTJ.png";
+   import INTP from "./icon/INTP.png";
+   import ISFJ from "./icon/IsFJ.png";
+   import ISFP from "./icon/ISFP.png";
+   import ISTJ from "./icon/ISTJ.png";
+   import ISTP from "./icon/ISTP.png";
 
    export {
    reddot,
@@ -40,4 +56,20 @@ import merkafakalishma from "./merkafakalishma.png";
   //keenshot,
   keenankissinger,
   merkafakalishma,
+  ENFJ,
+  ENFP,
+  ENTJ,
+  ENTP,
+  ESFJ,
+  ESFP,
+  ESTJ,
+  ESTP,
+  INFJ,
+  INFP,
+  INTJ,
+  INTP,
+  ISFJ,
+  ISFP,
+  ISTJ,
+  ISTP,
 };
