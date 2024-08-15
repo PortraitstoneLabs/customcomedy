@@ -31,7 +31,7 @@ import merkafakalishma from "./merkafakalishma.png";
    import INFP from "./icon/INFP.png";
    import INTJ from "./icon/INTJ.png";
    import INTP from "./icon/INTP.png";
-   import ISFJ from "./icon/IsFJ.png";
+   import ISFJ from "./icon/ISFJ.png";
    import ISFP from "./icon/ISFP.png";
    import ISTJ from "./icon/ISTJ.png";
    import ISTP from "./icon/ISTP.png";
