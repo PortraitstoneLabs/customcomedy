@@ -2,7 +2,7 @@ import emailjs from "@emailjs/browser";
 import { Canvas } from "@react-three/fiber";
 import { Suspense, useRef, useState } from "react";
 
-import { Hood } from "../models";
+import { Neonmikeboatdock } from "../models";
 import useAlert from "../hooks/useAlert";
 import { Alert, Loader } from "../components";
 import { SectionWrapper } from "../hoc";
@@ -164,7 +164,7 @@ const Contact = () => {
           />
 
           <Suspense fallback={<Loader />}>
-            <Hood
+            <Neonmikeboatdock
               currentAnimation={currentAnimation}
               position={[0.5, 0.35, 0]}
               rotation={[12.629, -0.6, 0]}

@@ -44,8 +44,8 @@ const Navbar = () => {
         >
           <img src={portlogo} alt='logo' className='w-9 h-9 object-contain' />
           <p className='text-white text-[18px] font-bold cursor-pointer flex '>
-          CUSTOM &nbsp;
-            <span className='sm:block hidden'> | COMEDY</span>
+          CUSTOM COMEDY&nbsp;
+            <span className='sm:block hidden'> | CORPORATION</span>
           </p>
         </Link>
 
