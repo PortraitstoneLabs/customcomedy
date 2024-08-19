@@ -96,7 +96,7 @@ const Contact = () => {
               type='text'
               name='name'
               className='input'
-              placeholder='Custom Comedy'
+              placeholder='Custom Comedy Corporation'
               required
               value={form.name}
               onChange={handleChange}
@@ -110,7 +110,7 @@ const Contact = () => {
               type='email'
               name='email'
               className='input'
-              placeholder='joke@customcomedy.com'
+              placeholder='info@customcomedy.org'
               required
               value={form.email}
               onChange={handleChange}
