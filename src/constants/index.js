@@ -338,48 +338,18 @@ const projects = [
         name: "udja app",
         color: "blue-text-gradient",
       },
-      // {
-      //   name: "LLM",
-      //   color: "green-text-gradient",
-      // },
-      // {
-      //   name: "gpt",
-      //   color: "pink-text-gradient",
-      // },
     ],
     image: customcomedy,
     source_code_link: "https://udja.app/",
   },
-  // {
-  //   name: "non-fungible token",
-  //   description:
-  //     "(NFTs) redefine investment property by representing unique digital assets with scarcity and verifiable authenticity, offering diverse investment opportunities in the evolving digital economy using a 'Generative Pre-trained Transformer.'",
-  //   tags: [
-  //     {
-  //       name: "agi+",
-  //       color: "blue-text-gradient",
-  //     },
-  //     {
-  //       name: "LLM",
-  //       color: "green-text-gradient",
-  //     },
-  //     {
-  //       name: "gpt",
-  //       color: "pink-text-gradient",
-  //     },
-  //   ],
-  //   image: keenankissinger,
-  //   source_code_link: "https://keenankissinger.com/",
-  // },
 ];
 
 
 import {
-
   highlightFirstVideo,
-  highlightFourthVideo,
   highlightSecondVideo,
   highlightThirdVideo,
+  highlightFourthVideo,
 } from "../utils";
 
 //export const navLists = [];
@@ -388,9 +358,13 @@ export const hightlightsSlides = [
   {
     id: 1,
     textLists: [
-      "Why did the Silicon Production facility always crack jokes?",
-      "Because it found humor even in the most crystalline of situations!",
-      "And as for Metal Extraction, well, it had a knack for turning ore-dinary moments into comedic gold!",
+      "TMI (Too Much Information) Rant: JOHREI-12",
+      "Going on hikes are nice, eh?",
+      "Maybe birds chirping, I don't know, leaves crunching underfoot.",
+      "And maybe you see something in the bushes, and let's say, maybe it's your wife.",
+      "And, who knows, maybe she is popping a squat, taking a number two.",
+      "And maybe she's on facetime with her mother I never got a dowry from, and she can't get pregnant, and she does OnlyFans, and her father subscribes.",
+      "Yeah, going on hikes, eh?",
     ],
     video: highlightFirstVideo,
     videoDuration: 4,
@@ -398,29 +372,23 @@ export const hightlightsSlides = [
   {
     id: 2,
     textLists: [
-    "Why did the Transportation and Installation team join the comedy circuit?", 
-    "Because they knew how to transport laughter and install smiles on everyone's faces!",
-    "And when it came to Loading and Shipping, they never missed a chance to ship jokes alongside cargo, ensuring every package arrived with a dose of humor!"
-  ],
+    "???", 
+   ],
     video: highlightSecondVideo,
     videoDuration: 5,
   },
   {
     id: 3,
     textLists: [
-      "Why did the Operation and Maintenance team switch to comedy?",
-      "Because they found that fixing laughter lines was easier than fixing pipelines!",
-      "And when it came to Inspecting for Damage, they realized jokes were the best repair tools—they could always mend a broken mood!",
-    ],
+      "???",
+      ],
     video: highlightThirdVideo,
     videoDuration: 2,
   },
   {
     id: 4,
     textLists: [
-    "Why did the Recycling team start a comedy troupe?", 
-    "Because they knew how to turn trash talk into laughter, recycling jokes for a sustainable sense of humor!",
-    "As for Disposal Methods, they joked that laughter was the ultimate form of waste management – it never ended up in the landfill, but always left smiles behind!",
+    "???", 
   ],
     video: highlightFourthVideo,
     videoDuration: 3.63,
