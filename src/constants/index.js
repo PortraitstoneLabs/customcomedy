@@ -350,6 +350,8 @@ import {
   highlightSecondVideo,
   highlightThirdVideo,
   highlightFourthVideo,
+  highlightFifthVideo,
+  highlightSixthVideo,
 } from "../utils";
 
 //export const navLists = [];
@@ -360,11 +362,6 @@ export const hightlightsSlides = [
     textLists: [
       "TMI (Too Much Information) Rant: JOHREI-12",
       "Going on hikes are nice, eh?",
-      "Maybe birds chirping, I don't know, leaves crunching underfoot.",
-      "And maybe you see something in the bushes, and let's say, maybe it's your wife.",
-      "And, who knows, maybe she is popping a squat, taking a number two.",
-      "And maybe she's on facetime with her mother I never got a dowry from, and she can't get pregnant, and she does OnlyFans, and her father subscribes.",
-      "Yeah, going on hikes, eh?",
     ],
     video: highlightFirstVideo,
     videoDuration: 4,
@@ -372,7 +369,7 @@ export const hightlightsSlides = [
   {
     id: 2,
     textLists: [
-    "???", 
+    "Maybe birds chirping, I don't know, leaves crunching underfoot.", 
    ],
     video: highlightSecondVideo,
     videoDuration: 5,
@@ -380,7 +377,7 @@ export const hightlightsSlides = [
   {
     id: 3,
     textLists: [
-      "???",
+      "And maybe you see something in the bushes, and let's say, maybe it's your wife.",
       ],
     video: highlightThirdVideo,
     videoDuration: 2,
@@ -388,9 +385,25 @@ export const hightlightsSlides = [
   {
     id: 4,
     textLists: [
-    "???", 
+    "And, who knows, maybe she is popping a squat, taking a number two.", 
   ],
     video: highlightFourthVideo,
+    videoDuration: 3.63,
+  },
+  {
+    id: 5,
+    textLists: [
+    "And maybe she's on facetime with her mother I never got a dowry from, and she can't get pregnant, and she does OnlyFans, and her father subscribes.", 
+  ],
+    video: highlightFifthVideo,
+    videoDuration: 3.63,
+  },
+  {
+    id: 6,
+    textLists: [
+    "Yeah, going on hikes, eh?", 
+  ],
+    video: highlightSixthVideo,
     videoDuration: 3.63,
   },
 ];

@@ -166,13 +166,14 @@ const VideoCarousel = () => {
                   id="video"
                   playsInline={true}
                   className={`${
-                    list.id === 2 && "translate-x-44"
+                    list.id === 2 && "translate-x-"
                   } pointer-events-none`}
                   preload="auto"
                   muted
                   ref={(el) => (videoRef.current[i] = el)}
                   onEnded={() =>
-                    i !== 3
+                    // number of video less one below
+                    i !== 5
                       ? handleProcess("video-end", i)
                       : handleProcess("video-last")
                   }
