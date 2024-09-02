@@ -55,12 +55,12 @@ export const socialMedia = [
   {
     id: "social-media-3",
     icon: twitter,
-    link: "https://www.twitter.com/",
+    link: "https://x.com/KeenanKissinger",
   },
   // {
   //   id: "social-media-4",
   //   icon: linkedin,
-  //   link: "https://www.linkedin.com/in/khristophe-keen-46270394/",
+  //   link: "https://www.linkedin.com/in/keenan-kissinger-9617aa326/",
   // },
   {
     id: "social-media-6",
