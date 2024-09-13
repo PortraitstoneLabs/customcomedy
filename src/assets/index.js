@@ -1,5 +1,6 @@
 import portlogo from "./customcomedy_icon.svg";
 //import portlogo from "./portlogo.svg";
+import keenshot from "./keenshot.png";
 import AGILogo from "./AGILogo.svg";
 import backend from "./backend.png";
 import creator from "./creator.png";
@@ -53,7 +54,7 @@ import merkafakalishma from "./merkafakalishma.png";
   github,
      menu,
      close,
-  //keenshot,
+  keenshot,
   keenankissinger,
   merkafakalishma,
   ENFJ,

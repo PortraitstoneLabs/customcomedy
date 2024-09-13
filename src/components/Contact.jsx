@@ -119,7 +119,7 @@ const Contact = () => {
             />
           </label>
           <label className='text-black-500 font-semibold'>
-            Your Joke
+            Newsletter Editorial
             <textarea
               name='message'
               rows='4'

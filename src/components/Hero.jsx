@@ -44,8 +44,8 @@ const Hero = () => {
         id="cta"
         className="flex flex-col items-center opacity-0 translate-y-20"
       >
-        <a href="#contact" className="btn">Open Mic</a>
-        <p className="font-normal text-xl">Write + Perform</p>
+        <a href="#contact" className="btn">Newsletter</a>
+        <p className="font-normal text-xl">Build Ur Character</p>
       </div>
     </section>
     </section>

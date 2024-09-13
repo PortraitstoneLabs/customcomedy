@@ -4,7 +4,7 @@ import {
      backend,
      creator,
      web,
-  // keenshot,
+   keenshot,
   instagram,
   facebook,
   twitter,
@@ -81,7 +81,7 @@ export const navLinks = [
   },
   {
     id: "contact",
-    title: "Get Started!",
+    title: "Sign Up!",
   },
 ];
 
@@ -323,7 +323,7 @@ const testimonials = [
     name: "Khristophe Keen",
     designation: "CEO",
     company: "Portraitstone LLC",
-    //icon: keen,
+    icon: keenshot,
   },
 ];
 
