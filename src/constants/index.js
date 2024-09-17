@@ -361,7 +361,7 @@ export const hightlightsSlides = [
     id: 1,
     textLists: [
       "TMI (Too Much Information) Rant: JOHREI-12",
-      "Going on hikes are nice, eh?",
+      "Going to the beach is fun, right?",
     ],
     video: highlightFirstVideo,
     videoDuration: 4,
@@ -369,7 +369,7 @@ export const hightlightsSlides = [
   {
     id: 2,
     textLists: [
-    "Maybe birds chirping, I don't know, leaves crunching underfoot.", 
+    "Warm sand between your toes, I don't know, maybe you see some surfer dudes.", 
    ],
     video: highlightSecondVideo,
     videoDuration: 5,
@@ -377,7 +377,7 @@ export const hightlightsSlides = [
   {
     id: 3,
     textLists: [
-      "And maybe you see something in the bushes, and let's say, maybe it's your wife.",
+      "And maybe you see a sand castle under construction, and let's say, maybe you want IT between your toes?",
       ],
     video: highlightThirdVideo,
     videoDuration: 2,
@@ -385,7 +385,7 @@ export const hightlightsSlides = [
   {
     id: 4,
     textLists: [
-    "And, who knows, maybe she is popping a squat, taking a number two.", 
+    "And, who knows, maybe you stick your toe in the sand castle?", 
   ],
     video: highlightFourthVideo,
     videoDuration: 3.63,
@@ -393,7 +393,7 @@ export const hightlightsSlides = [
   {
     id: 5,
     textLists: [
-    "And maybe she's on facetime with her mother I never got a dowry from, and she can't get pregnant, and she does OnlyFans, and her father subscribes.", 
+    "AND maybe those surfer dudes do the same.", 
   ],
     video: highlightFifthVideo,
     videoDuration: 3.63,
@@ -401,7 +401,7 @@ export const hightlightsSlides = [
   {
     id: 6,
     textLists: [
-    "Yeah, going on hikes, eh?", 
+    "And NOW a brawl starts, and the lifeguard calls the police, and a tiny tsunami destroys the sand castle, and you drown in handcuffs. Going to the beach is fun, right?", 
   ],
     video: highlightSixthVideo,
     videoDuration: 3.63,
