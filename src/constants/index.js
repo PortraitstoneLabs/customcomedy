@@ -8,7 +8,7 @@ import {
   instagram,
   facebook,
   twitter,
-  //linkedin,
+  linkedin,
   tiktok,
   github,
   keenankissinger,
@@ -57,11 +57,11 @@ export const socialMedia = [
     icon: twitter,
     link: "https://x.com/KeenanKissinger",
   },
-  // {
-  //   id: "social-media-4",
-  //   icon: linkedin,
-  //   link: "https://www.linkedin.com/in/keenan-kissinger-9617aa326/",
-  // },
+  {
+    id: "social-media-4",
+    icon: linkedin,
+    link: "https://www.linkedin.com/company/custom-comedy-corporation/",
+  },
   {
     id: "social-media-6",
     icon: github,

@@ -18,7 +18,7 @@ import merkafakalishma from "./merkafakalishma.png";
    import facebook from "./facebook.svg";
    import twitter from "./twitter.svg";
    import instagram from "./instagram.svg";
-   //import linkedin from "./linkedin.svg";
+   import linkedin from "./linkedin.svg";
    import tiktok from "./tiktok.svg";
    import ENFJ from "./icon/ENFJ.png";
    import ENFP from "./icon/ENFP.png";
@@ -43,7 +43,7 @@ import merkafakalishma from "./merkafakalishma.png";
    facebook,
    instagram,
    twitter,
-   //linkedin,
+   linkedin,
    tiktok,
   portlogo,
   AGILogo,
