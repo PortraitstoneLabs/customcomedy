@@ -114,9 +114,9 @@ const experiences = [
     date: "ENTJ",
     points: [
       "TRAGIC FLAW: Impatience",
-      "BLIND SPOT: Thinks they are emotionally sensitive",
+      "BLIND SPOT: Thinks they are emotionally generous",
       "ATTITUDE: Domineering",
-      "AGENDA: To convince you that they are emotionally sensitive",
+      "AGENDA: To convince you that they are emotionally generous",
       "THE STACK...",
       "[ Ego: Te-Hero, Ni-Parent, Se-Child, Fi-Inferior ]",
       "[ Unconscious: Ti-Nemesis, Ne-Critic, Si-Trickster, Fe-Demon ]",
