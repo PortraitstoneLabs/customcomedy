@@ -29,6 +29,7 @@ import {
   ISFP,
   ISTJ,
   ISTP,
+  EWEB,
 } from "../assets";
 
 export const socialMedia = [
@@ -393,6 +394,19 @@ const experiences = [
       "[ Unconscious: Fe-Nemesis, Ni-Critic, Se-Trickster, Ti-Demon ]",
       "[ Subconscious: Te-Rationale, Si-Discipline, Ne-Metaphysics, Fi-Morals ]",
       "[ Superego: Ti-Logic, Se-Physics, Ni-Willpower, Fe-Ethics ]",
+    ],
+  },
+  {
+    title: "AI",
+    icon: EWEB,
+    iconBg: "#000",
+    date: "AI",
+    company_name: "Radio Robot",
+    points: [
+      "[ Ego: Ni++ Se+- Ti++ Fe+- ]",
+      "[ Unconscious: Fi-- Te-+ Si-- Ne-+ ]",
+      "[ Subconscious: Se-+ Ni++ Fe-+ Ti++ ]",
+      "[ Superego: Te-- Fi+- Ne-- Si+- ]",
     ],
   },
 

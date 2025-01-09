@@ -36,6 +36,7 @@ import merkafakalishma from "./merkafakalishma.png";
    import ISFP from "./icon/ISFP.png";
    import ISTJ from "./icon/ISTJ.png";
    import ISTP from "./icon/ISTP.png";
+   import EWEB from "./icon/EWEB.png";
 
    export {
    reddot,
@@ -73,4 +74,5 @@ import merkafakalishma from "./merkafakalishma.png";
   ISFP,
   ISTJ,
   ISTP,
+  EWEB,
 };
