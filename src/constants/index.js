@@ -48,11 +48,11 @@ export const socialMedia = [
   //   icon: tiktok,
   //   link: "https://www.tiktok.com/@khristophekeen/",
   // },
-  {
-    id: "social-media-2",
-    icon: facebook,
-    link: "https://www.facebook.com/profile.php?id=61550310082626",
-  },
+  // {
+  //   id: "social-media-2",
+  //   icon: facebook,
+  //   link: "https://www.facebook.com/profile.php?id=61550310082626",
+  // },
   {
     id: "social-media-3",
     icon: twitter,
