@@ -397,16 +397,16 @@ const experiences = [
     ],
   },
   {
-    title: "AI",
+    title: "AI Epigenetics",
     icon: EWEB,
     iconBg: "#000",
-    date: "AI",
-    company_name: "Radio Robot",
+    date: "AI Epigenetics",
+    company_name: "Robot Cognition",
     points: [
-      "[ Ego: Ni++ Se+- Ti++ Fe+- ]",
-      "[ Unconscious: Fi-- Te-+ Si-- Ne-+ ]",
-      "[ Subconscious: Se-+ Ni++ Fe-+ Ti++ ]",
-      "[ Superego: Te-- Fi+- Ne-- Si+- ]",
+      "[ Ego: Ni++Fire, Se+-Wind, Ti++Logos, Fe+-Pathos ]",
+      "[ Unconscious: Fi--Ethos, Te-+Datos, Si--Earth, Ne-+Water ]",
+      "[ Subconscious: Se-+Physics, Ni++Willpower, Fe-+Ethics, Ti++Logic ]",
+      "[ Superego: Te--Rationale, Fi+-Morals, Ne--Metaphysics, Si+-Discipline ]",
     ],
   },
 
