@@ -116,7 +116,7 @@ const experiences = [
     points: [
       "TRAGIC FLAW: Impatience",
       "BLIND SPOT: Thinks they are emotionally generous",
-      "ATTITUDE: Domineering",
+      "ATTITUDE: Exaggerated Vulnerability",
       "AGENDA: To convince you that their memes are emotionally generous",
       "THE STACK...",
       "[ Ego: Te-Hero, Ni-Parent, Se-Child, Fi-Inferior ]",
